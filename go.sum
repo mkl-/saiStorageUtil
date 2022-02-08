@@ -55,6 +55,8 @@ github.com/rogpeppe/go-internal v1.2.2/go.mod h1:M8bDsm7K2OlrFYOpmOWEs/qY81heoFR
 github.com/rogpeppe/go-internal v1.3.0/go.mod h1:M8bDsm7K2OlrFYOpmOWEs/qY81heoFRclV5y23lUDJ4=
 github.com/saiset-co/saiUtil v0.0.0-20211116144923-bee1e46b0558 h1:yMjnNkFDkNJRctSnuPOGoGzdN2q5c9qEIq4ZirWA7hQ=
 github.com/saiset-co/saiUtil v0.0.0-20211116144923-bee1e46b0558/go.mod h1:JKvRJCXsFUGuamNr6K7qnykRlyEXFvbKgzDOYCgc4dg=
+github.com/saiset-co/saiUtil v0.0.0-20211116145456-f0524d0c1b0f h1:ZzNQVWA9ciEDfERJDaglZ7DbQs7kQuaiTk7FtXkRglw=
+github.com/saiset-co/saiUtil v0.0.0-20211116145456-f0524d0c1b0f/go.mod h1:JKvRJCXsFUGuamNr6K7qnykRlyEXFvbKgzDOYCgc4dg=
 github.com/sirupsen/logrus v1.4.0/go.mod h1:LxeOpSwHxABJmUn/MG1IvRgCAasNZTLOkJPxbbu5VWo=
 github.com/sirupsen/logrus v1.4.1/go.mod h1:ni0Sbl8bgC9z8RoU9G6nDWqqs/fq4eDPysMBDgk/93Q=
 github.com/sirupsen/logrus v1.4.2/go.mod h1:tLMulIdttU9McNUspp0xgXVQah82FyeX6MwdIuYE2rE=
